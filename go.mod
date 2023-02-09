@@ -4,7 +4,7 @@ module Final-Project-JCC-Golang-2021
 go 1.17
 
 require (
-	github.com/gin-gonic/gin v1.7.4
+	github.com/gin-gonic/gin v1.7.7
 	github.com/jinzhu/gorm v1.9.16
 	github.com/joho/godotenv v1.4.0
 	github.com/tpkeeper/gin-dump v1.0.1
